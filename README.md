@@ -16,10 +16,16 @@ Este proyecto utiliza **Cadenas de Markov** para predecir la evolución del prec
 >[!NOTE]
 >Si te ha interesado el proyecto, te ha gustado o te ha parecido curioso, no dudes en seguirme en Github, ¡Publicaré más!
 
+## Requisitos
 > [!IMPORTANT]
->## Requisitos
->
 >Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes librerías:
 
 ```bash
 pip install python-binance matplotlib numpy
+```
+> [!IMPORTANT]
+> Si quieres una instalación sencilla de los recursos del proyecto, hay tanto un archivo **`Setup.py`** como un archivo **`requirements.txt`** los cuales recomiendo para acceder fácilmente al código y a las librerias necesarias.
+
+> [!WARNING]
+> Si ves que el código no te funciona o no puedes ejecutarlo, probablemente sea porque no tienes las **claves necesarias de la API de Binance**. Para resolver dicho problema, tendréis que desde vuestra cuenta de Binance solicitar las claves.
+
