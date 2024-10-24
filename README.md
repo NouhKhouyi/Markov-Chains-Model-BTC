@@ -26,6 +26,9 @@ pip install python-binance matplotlib numpy
 > [!IMPORTANT]
 > Si quieres una instalación sencilla de los recursos del proyecto, hay tanto un archivo **`Setup.py`** como un archivo **`requirements.txt`** los cuales recomiendo para acceder fácilmente al código y a las librerias necesarias.
 
-> [!WARNING]
+> [!IMPORTANT]
 > Si ves que el código no te funciona o no puedes ejecutarlo, probablemente sea porque no tienes las **claves necesarias de la API de Binance**. Para resolver dicho problema, tendréis que desde vuestra cuenta de Binance solicitar las claves.
+
+> [!WARNING]
+> Revisa que a la hora de ejecutar el codigo, tengas tus propias claves de la API de binance, así como estar seguro de haber instalado las librerias correctamente. Gracias!
 
